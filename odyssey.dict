@@ -1,0 +1,27 @@
+#{HERO.name}	Odysseus
+#{HERO.name}	Ulysses
+#{HERO.name}	Achilles
+#{HERO.name}	Jason
+#{NOUN}	Troy
+#{NOUN}	Crete
+#{NOUN}	Minos
+#{NOUN}	Pillars of Hercules
+#{HERO.job}	soldier
+#{HERO.job}	sailor
+#{HERO.job_purpose}	explore
+#{HERO.company}	Argo
+#{HERO.action}	strike
+#{HERO.action}	hit
+#{QUEST_GIVER.name}	oracle
+#{QUEST_GIVER.name}	Zeus
+#{QUEST_GIVER.name}	Aphrodite
+#{QUEST_GIVER.name}	Hera
+#{QUEST_GIVER.job}	god
+#{MONSTER.name}	Circe
+#{MONSTER.name}	Cyclops
+#{MONSTER.name}	Hydra
+#{MONSTER.name}	Gorgon
+#{MONSTER.name}	Medusa
+#{MONSTER.action}	strike
+#{MONSTER.action}	hit
+
