@@ -29,5 +29,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency("aruba", "~> 0")
   spec.add_dependency('methadone', '~> 1.9.1')
   spec.add_development_dependency('rspec')
-  spec.add_development_dependency('faker')
+  spec.add_dependency('faker')
 end
